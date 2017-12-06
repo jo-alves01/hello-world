@@ -1,2 +1,2 @@
 # hello-world
-something to learn
+I'm just learn how to use this
